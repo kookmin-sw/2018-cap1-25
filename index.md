@@ -6,8 +6,12 @@
 제작한 컨텐츠들을 링크 형식으로 학생들에게 배포가 가능하도록
 개발할 계획입니다.
 
-### Markdown
 
+### 소개 영상
+
+[![image](docs/img.png)](https://www.youtube.com/watch?v=zhr5L1FFHkI&feature=youtu.be)
+
+### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
